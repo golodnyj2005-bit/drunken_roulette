@@ -471,6 +471,11 @@ body {
     font-size: 14px;
   }
 
+  /* 👇 Добавлено: сдвиг шапки вниз только на мобильных */
+  .game-header {
+    margin-top: rem; /* Регулируйте значение: 1rem – 2.5rem по необходимости */
+  }
+
   .number-grid {
     display: block;
   }
