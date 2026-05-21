@@ -34,6 +34,7 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1rem;
+  margin-top: 2rem;
 }
 
 .sound-toggle {
